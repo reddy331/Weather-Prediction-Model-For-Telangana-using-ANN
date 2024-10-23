@@ -36,3 +36,10 @@ The data is preprocessed to handle missing values, scale features, and prepare i
    ```bash
    git clone https://github.com/yourusername/weather-prediction-telangana-ann.git
    cd weather-prediction-telangana-ann
+
+2. **Jupyter Notebook:**
+    Open the `Final Project.ipynb` notebook in Jupyter to view the step-by-step implementation and run the model.
+
+3. **Prepare the Dataset:**
+    Ensure the dataset (`weather data.csv`) is in the root folder of the project before running the notebook.
+
